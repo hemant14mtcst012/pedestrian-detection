@@ -1,2 +1,2 @@
 # pedestrian-detection
-here we shall implement machine learning model and  evaluate their efficiency for pedestrian detection using YOLOv9 model.
+here we have implement yolov9-C model and  evaluate their efficiency for pedestrian detection on KITTI dataset. As KITTI datset has number of classes , so we only select person or pedestrian class in the dataset. 
